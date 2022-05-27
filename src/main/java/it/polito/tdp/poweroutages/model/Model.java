@@ -8,6 +8,7 @@ public class Model {
 	
 	PowerOutageDAO podao;
 	
+	
 	public Model() {
 		podao = new PowerOutageDAO();
 	}
